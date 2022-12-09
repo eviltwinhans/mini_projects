@@ -2,7 +2,7 @@ from random import randint
 
 
 def is_valid(s):
-    """Checks whether the input is valid."""
+    """Check whether the input is valid, return boolean."""
     if s.isdigit() and 1 <= int(s) <= 100:
         return True
     else:

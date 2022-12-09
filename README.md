@@ -9,9 +9,21 @@ The program tells the user whether their guess is greater or less than the rando
 Project _ingredients_:
 - Integers (type int);
 - Variables;
-- Data input and output (input() and print());
-- Conditions (if/elif/else);
-- While loop;
-- Infinite loop;
+- Data input and output: input() and print();
+- Conditions: if/elif/else;
+- Loops: while, infinite loops;
 - Operators: break, continue;
-- The random module.
+- Modules: random.
+
+
+## 2. Magic 8 Ball
+Description: the program randomly chooses one of pre-generated answers to the question entered by a user.
+
+Project _ingredients_:
+- Integers (type int);
+- Variables;
+- Data input and output: input() and print();
+- Conditions: if/elif/else;
+- Loops: while, infinite loops;
+- Operators: break, continue;
+- Modules: random.
