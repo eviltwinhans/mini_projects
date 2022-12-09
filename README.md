@@ -48,3 +48,20 @@ Project _ingredients_:
 - Loops: for;
 - Functions;
 - Modules: random.
+
+
+## 4. Caesar Cypher
+**File**: caesar.py
+
+**Description**: the program encrypts or decrypts the text entered by the user using a Caesar cipher.
+There are 3 modes: user can choose a certain shift for the whole text, they can check multiple results for a shift value,
+or each word in the text may be encrypted with its own shift value equal to a word's length.
+
+Project _ingredients_:
+- Integers (type int);
+- Modular arithmetic;
+- Variables;
+- Data input and output: input() and print();
+- Conditions: if/elif/else;
+- Loops: for, while;
+- String methods.
